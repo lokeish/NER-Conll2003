@@ -154,10 +154,6 @@ class NERTraining:
 
         return trainer
 
-    def save_artifacts(model, tokenizer, model_name, tokenizer_name):
-        """Save artifacts for the model predictions"""
-        model.save_pretrained(model_name)
-        tokenizer.save_pretrained(tokenizer_name)
 
     def save_model(self, model, tokenizer, loc_name, label_list):
         """saves the artificats to given location"""
