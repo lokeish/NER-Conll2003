@@ -18,6 +18,7 @@ Install Required packages by executing the below command
 
 ### Step - 4
 Start the server by executing the below command.
+
 `sh start_server.sh`
 
 ### Step - 5 
