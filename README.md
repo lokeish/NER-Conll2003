@@ -1,4 +1,4 @@
-# NER API
+# BERT Based NER API
 This API takes text as input and provides the token classification(NER) as output. To run the API few steps need to be performed.
 
 ### Step -1
