@@ -22,7 +22,7 @@ Start the server by executing the below command.
 `sh start_server.sh`
 
 ### Step - 4 Swagger UI
-Go to localhost:8001/doc, you should be able to see the Swagger UI. Where you can test the API.
+Go to localhost:8001/docs, you should be able to see the Swagger UI. Where you can test the API.
 
 ## Features
 - BERT Base Model is used for NER.
